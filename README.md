@@ -3,9 +3,9 @@
 This repo containts Gnosis main brand assets and sub-brand assets.
 
 Main Brand Assets:
-Gnosis + Owl/Owl
+Gnosis 
 
 Gnosis Sub-Brands:
-GnosisDAO/Gnosis Studios/Gnosis Labs/GnosisVC
+Gnosis App/Gnosis Business/Gnosis Chain/Gnosis Pay/Gnosis VC/Gnosis VPN
 
 Do not alter or change any of these brand assets. 
